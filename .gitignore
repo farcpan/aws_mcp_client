@@ -1,2 +1,8 @@
 # virtual env
 .venv
+
+# logs
+logs
+
+# deepeval
+.deepeval
